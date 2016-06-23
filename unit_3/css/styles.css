@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+	background-image: url("../images/TCNewGifts.jpg");
+	background-size: ;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+img {
+	opacity: .5;
+	color: #000;
+}
+
+h1 {
+	color: #fff;
+	text-transform: uppercase;
+	text-shadow: .5px .5px .5px #000;
+	font-size: 32px;
+}
+
+#Programs {
+	background-color: #eee;
+}
+
+#ph1 {
+	color: #4a5f81;
+	text-transform: none;
+	text-shadow: none;
+}
+
+h2 {
+	color: #4a5f81;
+	font-size: 28px;
+}
+
+h3 {
+	color: #fff;
+	text-shadow: .5px .5px #000;
+	font-weight: 100;
+	font-size: 20px;
+}
