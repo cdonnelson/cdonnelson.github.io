@@ -10,6 +10,92 @@ body {
 
 }*/
 
+
+
+#nav {
+	height: 4em;
+	position: fixed;
+	display: block;
+	width: 100%;
+	/*background-color: #4a5f81;*/
+	background: #fff;
+	opacity: 1; 
+	/*box-sizing: border-box;*/
+	box-shadow: 1px 1px 20px #d8d8d8;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    border-radius: 0px;
+    min-height: 45px;
+}
+
+#nav li {
+	display: inline-flex;
+}
+
+/*#nav img {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}*/
+
+#headerNavigationButtons {
+	display: inline-block;
+    text-align: left;
+    margin-left: 4em;
+}
+
+.fa fa-home{
+	color: #4a5f81;
+	display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+}
+
+.header {
+	padding-right: 15px;
+    padding-left: 15px;
+	height: 4.65em;
+	position: absolute;
+	display: block;
+	width: 100%;
+	/*margin: 0em;
+	background-color: #4a5f81;*/
+	background-color: #fff;
+	/*opacity: 1; 
+	box-sizing: border-box;*/
+	/*box-shadow: 1px 1px 20px #d8d8d8;*/
+}
+
+.header img {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.header li {
+	display: inline-flex;
+	align-items: left;
+}
+
+li.admissions a {
+	background-color: transparent;
+	color: #4a5f81;;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: left;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
 .heroImage {
 	background: url("../images/TCMCNY.jpg");
 	background-size: cover;
@@ -18,16 +104,6 @@ body {
     max-height: 716px;
     margin: -15px;
     margin-top: -1.65em
-}
-
-.header {
-	height: 4.65em;
-	display: block;
-	margin: -15px;
-	background-color: #4a5f81;
-	/*background-color: #000;*/
-	opacity: 1; 
-	box-sizing: border-box;
 }
 
 #programsBar{
@@ -81,19 +157,7 @@ button {
     
 }
 
-#headerLeft {
-	position: absolute;
-	margin-top: 20px;
-    padding-right: 15px;
-    padding-left: 15px;
-}
 
-#headerRight {
-	position: fixed;
-	margin-top: 20px;
-    padding-right: 15px;
-    padding-left: 15px;
-}
 
 .blue {
 	color: #fff;
@@ -101,9 +165,8 @@ button {
 	font-weight: bold;
 }
 
-ul#navagatorHeaderButtons {
-	display: inline-block;
-}
+
+
 
 .pull-right {
 	float: right;
@@ -111,13 +174,7 @@ ul#navagatorHeaderButtons {
 	padding-right: 40px;
 }
 
-li.admissions a {
-	background-color: transparent;
-	color: #fff;
-	font-weight: bold;
-	text-decoration: none;
-	align: left;
-}
+
 
 /*<!li class="myTC" ><!a href="http://my.tc.columbia.edu">myTC</a></li>li.myTC a {
 	display: none;

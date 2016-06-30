@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"i",
+				"inline-flex"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"it",
+				"align-items"
+			],
+			[
+				"im",
+				"background-image"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/donnelson/Desktop/Desktop stuff Fall 2015-Spring 2016/GA Class/cdonnelson.github.io/unit_3/css/styles.css",
+		"/Users/donnelson/Desktop/Desktop stuff Fall 2015-Spring 2016/GA Class/cdonnelson.github.io/unit_3/index.html",
+		"/Users/donnelson/Desktop/Desktop stuff Fall 2015-Spring 2016/GA Class/cdonnelson.github.io/unit_3/images/TCNewGifts.jpg",
+		"/Users/donnelson/Desktop/Desktop stuff Fall 2015-Spring 2016/GA Class/cdonnelson.github.io/unit_3/images/TC-New-Gifts-Ex-M-Ferrec_Web.jpg",
+		"/Users/donnelson/Desktop/Desktop stuff Fall 2015-Spring 2016/GA Class/Unit 1/News Bulletin/index.html",
+		"/Users/donnelson/Desktop/Desktop stuff Fall 2015-Spring 2016/GA Class/Unit 1/News Bulletin/css/main.css",
+		"/Users/donnelson/Desktop/GA Class/Unit 1/unit_1/index.html",
+		"/Users/donnelson/Desktop/GA Class/Unit 1/unit_1/style.css",
+		"/Users/donnelson/Desktop/main.css",
+		"/Users/donnelson/Desktop/first.css",
+		"/Users/donnelson/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
