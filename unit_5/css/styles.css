@@ -1,0 +1,288 @@
+body {
+	text-align: center;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, p {
+	color: #000;
+	line-height: 1em;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+p {
+	font-size: 18px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 10px 40px;
+    color: #405b84;
+    text-transform: uppercase;
+    clear: both;
+    min-height: 20px;
+}
+
+a {
+	text-decoration: none;
+	padding: 1em;
+}
+
+#tc {
+	background-color: #4a5f81;
+    min-height: 2.5em;
+    padding: 10px;
+}
+
+.pull-left {
+	float: left;
+	padding-left: 40px;
+}
+
+.pull-right {
+	float: right;
+	padding: 10px;
+	padding-right: 40px;
+}
+
+#admissionsBlue {
+	color: #fff;
+	font-weight: bold;
+	padding: 10px;
+	padding-right: 30px;
+}
+
+.fa{
+	padding-right: 10px;
+}
+
+#yellow {
+	color: #eead0e;
+	text-decoration: none;
+	padding-right: 30px;
+	text-transform: none;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+.heroImage {
+	background: url("../images/TCMCNY.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-position: center; 
+    min-height: 31.25em;
+    max-height: 716px;
+    margin: -15px;
+    margin-top: -1.65em
+}
+
+.heroImage h1 {
+	padding-top: 4em;
+	font-size: 3em;
+}
+
+.heroImage h3 {
+	font-size: 1.5em;
+	text-transform: uppercase;
+}
+
+.heroImage h2 {
+	padding: 30px;
+    margin-top: 2em;
+    /*border: 5px solid black;
+    margin-left: 5em;
+    margin-right: 5em;*/
+    text-transform: uppercase;
+   	background-color: rgba(255,255,255,.5);
+}
+
+.stories {
+	max-height: 600px;
+	border: 1px solid #eee;
+}
+
+
+.moreLink a {
+	text-transform: uppercase;
+	color: #4a5f81;
+}
+
+li {
+	display: inline-block;
+}
+
+section {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+/*dropdow tries via http://www.w3schools.com/howto/howto_css_dropdown.asp*/
+#dropbtn1 {
+    background-color: transparent;
+    color: rgba(197, 208, 80,1);
+    padding: 16px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+   	font-weight: bold;
+}
+
+#dropbtn2 {
+    background-color: transparent;
+    color: rgba(177,46,31,1);
+    padding: 16px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+   	font-weight: bold;
+}
+
+#dropbtn3 {
+    background-color: transparent;
+    color: rgba(180,153,183,1);
+    padding: 16px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+   	font-weight: bold;
+}
+
+#dropbtn4 {
+    background-color: transparent;
+    color: rgba(136,182,208,1);
+    padding: 16px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+   	font-weight: bold;
+}
+
+#dropbtn5 {
+    background-color: transparent;
+    color: rgba(238,173,14,1);
+    padding: 16px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+   	font-weight: bold;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+#dropdown-content1 {
+    display: none;
+    position: absolute;
+    /*background-color: rgba(157,53,48,1);*/
+    background-color: #eee;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+#dropdown-content2 {
+    display: none;
+    position: absolute;
+    /*background-color: rgba(157,53,48,1);*/
+    background-color: #eee;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+#dropdown-content3 {
+    display: none;
+    position: absolute;
+    /*background-color: rgba(157,53,48,1);*/
+    background-color: #eee;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+#dropdown-content4 {
+    display: none;
+    position: absolute;
+    /*background-color: rgba(157,53,48,1);*/
+    background-color: #eee;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+#dropdown-content5 {
+    display: none;
+    position: absolute;
+    /*background-color: rgba(157,53,48,1);*/
+    background-color: #eee;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: 405b84;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-transform: none;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: left;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+	background-color: #f1f1f1;
+	color: #405b84;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
